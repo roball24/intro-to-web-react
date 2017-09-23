@@ -1,0 +1,13 @@
+$fontPath: '/fonts/';
+
+@font-face {
+  font-family: 'Oswald';
+  font-weight: normal;
+  src: url($fontPath + 'Oswald-Regular.ttf')  format('truetype');
+}
+
+@font-face {
+  font-family: 'OpenSans';
+  font-weight: normal;
+  src: url($fontPath + 'OpenSans-Regular.ttf')  format('truetype');
+}
